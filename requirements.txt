@@ -1,0 +1,7 @@
+PyBluez==0.18
+argparse==1.2.1
+distribute==0.6.28
+ipython==0.13.1
+nxt-python==2.2.2
+pyusb==1.0.0a3
+wsgiref==0.1.2
